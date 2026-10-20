@@ -1,1 +1,102 @@
-# Grestama-Naufal-Tsabit
+
+<div align="center">
+
+  <h1>Grestama Naufal Tsabit</h1>
+
+  <h3>✦ Data Science Student · Analytics · ML · AI ✦</h3>
+
+  <p>
+    <i>Exploring the universe of data, one model at a time.</i>
+  </p>
+
+  <a href="https://www.linkedin.com/in/grestamanaufaltsabit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1mV9cIQ7PdejNQ92m2fiO02WuNKNZfHx2/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-A78BFA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+</div>
+
+---
+
+## 🌌 01 / MISSION BRIEF
+
+I'm a Data Science student at Telkom University interested in
+turning raw data into meaningful insights and building intelligent
+digital experiences.
+
+My exploration covers data analytics, machine learning,
+predictive modeling, and AI-powered applications.
+
+**Current mission:** Build data-driven solutions that connect
+analytical thinking with real-world impact.
+
+## 🛰️ 02 / TECHNOLOGY SYSTEMS
+
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=60A5FA)
+![SQL](https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Pandas](https://img.shields.io/badge/Pandas-0B1020?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24)
+![Power BI](https://img.shields.io/badge/Power_BI-0B1020?style=for-the-badge&logo=powerbi&logoColor=FBBF24)
+![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+
+## 🚀 03 / FEATURED MISSIONS
+
+### 📈 Stocky — Predictive Stock Analytics
+
+Exploring stock market analysis, machine learning predictions,
+and risk-aware investment insights. (Under Maintenance)
+
+`Python` `Machine Learning` `FastAPI` `Next.js`
+
+[Explore Repository](https://github.com/Grestama/Prediction_Share)
+
+### 📸 Nauva — Photobooth Web
+
+An interactive web-based photobooth experience designed to capture
+memorable moments through a creative and engaging interface.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[Explore Repository](https://github.com/Grestama/Photobooth-projectWeb)
+
+### 🌐 TemanKita — Company Profile Web
+
+A modern company profile website designed to showcase
+company information, services, and brand identity through
+a clean and engaging digital experience.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[Explore Repository](https://github.com/Grestama/TemanKita.ofc-CompanyProfileWeb)
+
+## 🧠 04 / CURRENT EXPLORATION
+
+- Data analytics and exploratory data analysis
+- Machine learning validation and generalization
+- AI-powered applications and intelligent interfaces
+- Data visualization and insight communication
+
+## 📡 05 / GITHUB TRANSMISSION
+
+<div align="center">
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Grestama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Grestama&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 🎧 06 / BEYOND THE TERMINAL
+
+Anime soundtracks · Interstellar worlds · Sci-fi · Creative technology
+
+> Every dataset tells a story. I'm here to discover its meaning.
+
+<div align="center">
+
+  *Keep exploring. Keep building. Keep learning.*
+
+</div>
