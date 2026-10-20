@@ -1,12 +1,28 @@
+<!-- INTERSTELLAR BANNER -->
+<p align="center">
+  <img
+    src="assets/interstellar-banner.png"
+    alt="Interstellar × AI — Exploring the Universe of Data"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Grestama Naufal Tsabit</h1>
+
+<p align="center">
+  <b>Data Science Student · Analytics · Machine Learning · AI</b>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+Data%2C+One+Model+at+a+Time;Building+Intelligent+Systems;Turning+Data+Into+Insights;Learning+Machine+Learning+%26+AI"
+    alt="Typing animation"
+  />
+</p>
+
+---
 <div align="center">
-
-  <h1>Grestama Naufal Tsabit</h1>
-
-  <h3>✦ Data Science Student · Analytics · ML · AI ✦</h3>
-
-  <p>
-    <i>Exploring the universe of data, one model at a time.</i>
-  </p>
 
   <a href="https://www.linkedin.com/in/grestamanaufaltsabit/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
