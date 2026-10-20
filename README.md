@@ -1,3 +1,24 @@
+<h2 align="center">✦ Contribution Constellation ✦</h2>
+
+<p align="center">
+  <i>Every contribution moves the mission forward.</i>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 <div align="center">
 
