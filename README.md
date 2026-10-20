@@ -20,7 +20,7 @@
 
 ---
 
-## 🌌 01 / MISSION BRIEF
+## MISSION BRIEF
 
 I'm a Data Science student at Telkom University interested in
 turning raw data into meaningful insights and building intelligent
@@ -32,7 +32,7 @@ predictive modeling, and AI-powered applications.
 **Current mission:** Build data-driven solutions that connect
 analytical thinking with real-world impact.
 
-## 🛰️ 02 / TECHNOLOGY SYSTEMS
+## TECHNOLOGY SYSTEMS
 
 ![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=60A5FA)
 ![SQL](https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
@@ -42,9 +42,9 @@ analytical thinking with real-world impact.
 ![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=60A5FA)
 
-## 🚀 03 / FEATURED MISSIONS
+## FEATURED MISSIONS
 
-### 📈 Stocky — Predictive Stock Analytics
+### Stocky — Predictive Stock Analytics
 
 Exploring stock market analysis, machine learning predictions,
 and risk-aware investment insights. (Under Maintenance)
@@ -53,7 +53,7 @@ and risk-aware investment insights. (Under Maintenance)
 
 [Explore Repository](https://github.com/Grestama/Prediction_Share)
 
-### 📸 Nauva — Photobooth Web
+### Nauva — Photobooth Web
 
 An interactive web-based photobooth experience designed to capture
 memorable moments through a creative and engaging interface.
@@ -62,7 +62,7 @@ memorable moments through a creative and engaging interface.
 
 [Explore Repository](https://github.com/Grestama/Photobooth-projectWeb)
 
-### 🌐 TemanKita — Company Profile Web
+### TemanKita — Company Profile Web
 
 A modern company profile website designed to showcase
 company information, services, and brand identity through
@@ -72,14 +72,14 @@ a clean and engaging digital experience.
 
 [Explore Repository](https://github.com/Grestama/TemanKita.ofc-CompanyProfileWeb)
 
-## 🧠 04 / CURRENT EXPLORATION
+## CURRENT EXPLORATION
 
 - Data analytics and exploratory data analysis
 - Machine learning validation and generalization
 - AI-powered applications and intelligent interfaces
 - Data visualization and insight communication
 
-## 📡 05 / GITHUB TRANSMISSION
+## GITHUB TRANSMISSION
 
 <div align="center">
 
@@ -89,11 +89,6 @@ a clean and engaging digital experience.
 
 </div>
 
-## 🎧 06 / BEYOND THE TERMINAL
-
-Anime soundtracks · Interstellar worlds · Sci-fi · Creative technology
-
-> Every dataset tells a story. I'm here to discover its meaning.
 
 <div align="center">
 
