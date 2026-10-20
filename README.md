@@ -1,25 +1,3 @@
-<h2 align="center">✦ Contribution Constellation ✦</h2>
-
-<p align="center">
-  <i>Every contribution moves the mission forward.</i>
-</p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake.svg"
-    width="100%"
-  />
-</picture>
-
 <div align="center">
 
   <h1>Grestama Naufal Tsabit</h1>
@@ -62,6 +40,29 @@ analytical thinking with real-world impact.
 ![Power BI](https://img.shields.io/badge/Power_BI-0B1020?style=for-the-badge&logo=powerbi&logoColor=FBBF24)
 ![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+
+<h2 align="center">✦ Contribution Constellation ✦</h2>
+
+<p align="center">
+  <i>Every contribution moves the mission forward.</i>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Grestama/Grestama/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
 
 ## FEATURED MISSIONS
 
