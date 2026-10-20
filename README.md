@@ -70,6 +70,17 @@ a clean and engaging digital experience.
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
+---
+
+
+## 🎧 / TRANSMISSION FREQUENCY
+
+*Soundtrack for late-night coding and exploring the universe.*
+
+[![Spotify](https://img.shields.io/badge/Spotify-Listen_to_My_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_URL)
+
+**Current mood:** Interstellar OST · Ambient Space · Anime Soundtracks
+
 [Explore Repository](https://github.com/Grestama/TemanKita.ofc-CompanyProfileWeb)
 
 ## CURRENT EXPLORATION
