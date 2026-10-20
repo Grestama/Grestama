@@ -1,7 +1,7 @@
 <!-- INTERSTELLAR BANNER -->
 <p align="center">
   <img
-    src="assets/interstellar-banner.png"
+    src="assets/interstellar-banner.webp"
     alt="Interstellar × AI — Exploring the Universe of Data"
     width="100%"
   />
