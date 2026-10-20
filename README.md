@@ -1,7 +1,7 @@
 <!-- INTERSTELLAR BANNER -->
 <p align="center">
   <img
-    src="assets/background.webp"
+    src="assets/Cosmic HUD Portrait in Orbit.png"
     alt="Interstellar × AI — Exploring the Universe of Data"
     width="100%"
   />
