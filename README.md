@@ -79,19 +79,3 @@ a clean and engaging digital experience.
 - AI-powered applications and intelligent interfaces
 - Data visualization and insight communication
 
-## GITHUB TRANSMISSION
-
-<div align="center">
-
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Grestama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Grestama&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-</div>
-
-
-<div align="center">
-
-  *Keep exploring. Keep building. Keep learning.*
-
-</div>
